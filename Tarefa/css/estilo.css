@@ -1,0 +1,7 @@
+img{
+    max-width: 250px;
+    border: 10px outset rgb(211, 6, 102);
+    border-radius: 10px;
+    bleed: 10px;
+      
+}
