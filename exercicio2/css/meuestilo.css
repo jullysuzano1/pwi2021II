@@ -1,0 +1,12 @@
+img{
+    max-width: 200px;
+    border: 10px outset rgb(219, 6, 6);
+    border-radius: 10px;
+    bleed: 10px;
+}
+
+li{
+    text-align: left;
+    padding: 8px
+    
+}
